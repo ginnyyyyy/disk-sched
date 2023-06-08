@@ -51,6 +51,10 @@ const SelectAlgorithm = ({ algorithm, setAlgorithm }) => {
             label: "C-Scan",
           },
           {
+            value: "look",
+            label: "Look",
+          },
+          {
             value: "clook",
             label: "C-Look",
           },
